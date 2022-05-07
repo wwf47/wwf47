@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wenfang.
+- 👋 Hi, I’m Wenfang.
 - 👀 I’m interested in Aspected-based sentiment analysis and Knowledge graph.
 - 🌱 I’m currently learning Sentiment Triplet Extraction.
 - 📫 My email is wwfttrans@gmail.com.
