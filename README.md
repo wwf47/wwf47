@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Wenfang.
 - 👀 I’m interested in Aspected-based sentiment analysis and Knowledge graph.
 - 🌱 I’m currently learning Sentiment Triplet Extraction.
-- 📫 My email is wwfttrans@gmail.com
+- 📫 My email is wwfttrans@gmail.com.
+- Welcome to contact me!
 
 <!---
 wwf47/wwf47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
